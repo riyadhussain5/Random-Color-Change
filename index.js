@@ -411,7 +411,7 @@ while(i<number.length){
 console.log(sum)
 
 
-
+//random color function
 
 function flashText() {
 
